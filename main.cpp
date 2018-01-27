@@ -5,7 +5,7 @@ using std::cout;
 using std::endl;
 
 /**
- * @brief Created by Fábio Bento - 08/05/2016 @ random-guy github
+ * @brief Created by Fábio Bento - 08/05/2016 @ fabiobento512 github
  * A really simple implementation of a hash table using constant or user defined bucket size
  *
  * Based in the theory of this article: http://www.linuxjournal.com/content/hash-tables—theory-and-practice?page=0,0
